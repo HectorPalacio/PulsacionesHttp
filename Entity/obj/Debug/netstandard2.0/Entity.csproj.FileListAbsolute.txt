@@ -1,0 +1,8 @@
+C:\Users\Hector_Palacio\source\Web\pulsacionesdotnet\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+C:\Users\Hector_Palacio\source\Web\pulsacionesdotnet\Entity\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\Hector_Palacio\source\Web\pulsacionesdotnet\Entity\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\Hector_Palacio\source\Web\pulsacionesdotnet\Entity\obj\Debug\netstandard2.0\Entity.csprojAssemblyReference.cache
+C:\Users\Hector_Palacio\source\Web\pulsacionesdotnet\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+C:\Users\Hector_Palacio\source\Web\pulsacionesdotnet\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+C:\Users\Hector_Palacio\source\Web\pulsacionesdotnet\Entity\obj\Debug\netstandard2.0\Entity.dll
+C:\Users\Hector_Palacio\source\Web\pulsacionesdotnet\Entity\obj\Debug\netstandard2.0\Entity.pdb

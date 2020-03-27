@@ -10,9 +10,8 @@ import { HomeComponent } from './home/home.component';
 import { CounterComponent } from './counter/counter.component';
 import { FetchDataComponent } from './fetch-data/fetch-data.component';
 import { AppRoutingModule } from './app-routing.module';
-import { PersonaConsultaComponent } from './pulsacion/persona-consulta/persona-consulta.component';
 import { PersonaRegistroComponent } from './pulsacion/persona-registro/persona-registro.component';
-import { PersonaService } from './services/persona.service';
+import { PersonaConsultaComponent } from './pulsacion/persona-consulta/persona-consulta.component';
 
 @NgModule({
   declarations: [
@@ -21,8 +20,8 @@ import { PersonaService } from './services/persona.service';
     HomeComponent,
     CounterComponent,
     FetchDataComponent,
-    PersonaConsultaComponent,
-    PersonaRegistroComponent
+    PersonaRegistroComponent,
+    PersonaConsultaComponent
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'ng-cli-universal' }),
@@ -35,7 +34,7 @@ import { PersonaService } from './services/persona.service';
     ]),
     AppRoutingModule
   ],
-  providers: [PersonaService],
+  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

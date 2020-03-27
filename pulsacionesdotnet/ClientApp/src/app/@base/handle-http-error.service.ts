@@ -5,15 +5,22 @@ import { Observable, of } from 'rxjs';
   providedIn: 'root'
 })
 export class HandleHttpErrorService {
+
   constructor() { }
- 
-  handleError<T>(operation = 'operation', result?: T) {
+  
+  public handleError<T>(operation = 'operation', result?: T) {
     return (error: any): Observable<T> => {
+
       console.error(error);
-      return of (result as T);
+
+      return of(result as T);
     };
   }
-  log(message: string) {
+  public log(message: string) {
     console.log(message);
   }
+  
 }
+
+
+

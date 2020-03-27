@@ -1,0 +1,13 @@
+C:\Users\Hector_Palacio\source\Web\pulsacionesdotnet\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+C:\Users\Hector_Palacio\source\Web\pulsacionesdotnet\Logica\bin\Debug\netstandard2.0\Logica.dll
+C:\Users\Hector_Palacio\source\Web\pulsacionesdotnet\Logica\bin\Debug\netstandard2.0\Logica.pdb
+C:\Users\Hector_Palacio\source\Web\pulsacionesdotnet\Logica\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\Hector_Palacio\source\Web\pulsacionesdotnet\Logica\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\Hector_Palacio\source\Web\pulsacionesdotnet\Logica\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\Hector_Palacio\source\Web\pulsacionesdotnet\Logica\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\Hector_Palacio\source\Web\pulsacionesdotnet\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+C:\Users\Hector_Palacio\source\Web\pulsacionesdotnet\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+C:\Users\Hector_Palacio\source\Web\pulsacionesdotnet\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+C:\Users\Hector_Palacio\source\Web\pulsacionesdotnet\Logica\obj\Debug\netstandard2.0\Logica.csproj.CopyComplete
+C:\Users\Hector_Palacio\source\Web\pulsacionesdotnet\Logica\obj\Debug\netstandard2.0\Logica.dll
+C:\Users\Hector_Palacio\source\Web\pulsacionesdotnet\Logica\obj\Debug\netstandard2.0\Logica.pdb
